@@ -5,9 +5,6 @@
 ### Education
 - B.S. - Chungnam National University
    - Mar.2019 ~ Present
-- others
-   - KAIST GSDS Microdegree Basic Machine Learning 22-23
-      - Sept.2022 ~ Present
 
 ### My interest
 - Mobile Application Development (Flutter)
