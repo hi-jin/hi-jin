@@ -15,5 +15,6 @@
 ### Work Experience
 - Mobile Application Development at "4th place"
     - May.2022 ~ Present
-
+- Studying NLP at CNU "ISoftLab"
+    - Dec.2022 ~ Present
 ---
