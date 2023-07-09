@@ -13,10 +13,10 @@
 - NLP
 
 ### Work Experience
+- Teaching Assistant at Chungnam National University - Software Academy
+    - July.2023 ~ Present
 - Studying NLP at CNU "ISoftLab"
     - Dec.2022 ~ Present
 - Mobile Application Development at "4th place"
     - May.2022 ~ Present
-- Teaching Assistant at Chungnam National University - Software Academy
-    - July.2023 ~ Present
 ---
