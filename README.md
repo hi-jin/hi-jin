@@ -14,9 +14,14 @@
 
 ### Work Experience
 - Teaching Assistant at Chungnam National University - Software Academy
-    - July.2023 ~ Present
+   - July.2023 ~ Present
 - Studying NLP at CNU "ISoftLab"
-    - Dec.2022 ~ Present
+   - Dec.2022 ~ Present
 - Mobile Application Development at "4th place"
-    - May.2022 ~ Present
+   - May.2022 ~ Present
+ 
+### Publications
+- 거대 언어 모델(LLM)을 이용한 비훈련 이진 감정 분류
+   - 제35회 한글 및 한국어 정보처리 학술대회 - 구두발표
+   - Oct.2023
 ---
