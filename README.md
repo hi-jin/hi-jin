@@ -11,10 +11,11 @@
 ### My interest
 - Mobile Application Development (Flutter)
 - NLP
+- RL
 
 ### Work Experience
 - Teaching Assistant at Chungnam National University - Software Academy
-   - July.2023 ~ Present
+   - July.2023 ~ Oct.2023
 - Studying NLP at CNU "ISoftLab"
    - Dec.2022 ~ Present
 - Mobile Application Development at "4th place"
