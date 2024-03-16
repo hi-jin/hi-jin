@@ -7,6 +7,7 @@
 ### Education
 - B.S. - Chungnam National University
    - Mar.2019 ~ Present
+   - Senior student
 
 ### My interest
 - Mobile Application Development (Flutter)
@@ -22,10 +23,10 @@
    - May.2022 ~ Present
  
 ### Publications
-- 거대 언어 모델 기반 분류문제에서 유사도 활용 Few-shot 예제 기법 성능분석
+- [거대 언어 모델 기반 분류문제에서 유사도 활용 Few-shot 예제 기법 성능분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705596)
    - 2023 한국소프트웨어종합학술대회 (KSC 2023) - \[학부생 논문] 포스터 발표
    - Dec.2023
-- 거대 언어 모델(LLM)을 이용한 비훈련 이진 감정 분류
+- [거대 언어 모델(LLM)을 이용한 비훈련 이진 감정 분류](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=128&pageNo=2&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2023m10a&id=1&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2023m10a%29)
    - 제35회 한글 및 한국어 정보처리 학술대회 - 구두발표
    - Oct.2023
 ---
