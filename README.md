@@ -15,12 +15,12 @@
 - RL
 
 ### Work Experience
-- Teaching Assistant at Chungnam National University - Software Academy
-   - July.2023 ~ Oct.2023
 - Studying NLP at CNU "ISoftLab"
    - Dec.2022 ~ Present
 - Mobile Application Development at "4th place"
    - May.2022 ~ Present
+- Teaching Assistant at Chungnam National University - Software Academy
+   - July.2023 ~ Oct.2023
  
 ### Publications
 - [거대 언어 모델 기반 분류문제에서 유사도 활용 Few-shot 예제 기법 성능분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705596)
