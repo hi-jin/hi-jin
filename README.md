@@ -23,6 +23,9 @@
    - July.2023 ~ Oct.2023
  
 ### Publications
+- BitNet 양자화 기술 및 가중치 복사를 적용한 한국어 BERT 모델의 경량화 및 성능 분석
+   - 2024 한국컴퓨터종합학술대회 (KCC 2024) - 포스터 발표
+   - June.2024
 - [거대 언어 모델 기반 분류문제에서 유사도 활용 Few-shot 예제 기법 성능분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705596)
    - 2023 한국소프트웨어종합학술대회 (KSC 2023) - \[학부생 논문] 포스터 발표
    - Dec.2023
