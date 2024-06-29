@@ -14,6 +14,10 @@
 - NLP
 - RL
 
+### Study
+- I enjoy breaking down complex concepts into their smallest parts
+   - [Demystifying the Complex: Simplified Explanations](https://github.com/hi-jin?tab=repositories&q=Demystifying&type=&language=&sort=)
+
 ### Work Experience
 - Studying NLP at CNU "ISoftLab"
    - Dec.2022 ~ Present
