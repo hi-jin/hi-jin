@@ -8,8 +8,8 @@
 
 ### Education
 - B.S. - Chungnam National University
-   - Mar.2019 ~ Present
-   - Senior student
+   - Mar.2019 ~ Feb.2025
+   - 1st out of 86 students
 
 ### My interest
 - Mobile Application Development (Flutter)
