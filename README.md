@@ -2,11 +2,10 @@
 
 [cv_hyungjinahn.pdf](https://github.com/user-attachments/files/18089724/cv_hyungjinahn.pdf)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-jin&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=crushed7)](https://solved.ac/profile/crushed7)
-
 ### Education
+- M.S. - Korea Advanced Institute of Science and Technology (KAIST)
+   - Sep.2025 ~ Current
+   - Web Engineering & Service Computing Lab (Advisor: In-Young Ko)
 - B.S. - Chungnam National University
    - Mar.2019 ~ Feb.2025
    - 1st out of 86 students
