@@ -8,7 +8,7 @@
    - Web Engineering & Service Computing Lab (Advisor: In-Young Ko)
 - B.S. - Chungnam National University
    - Mar.2019 ~ Feb.2025
-   - 1st out of 86 students
+   - 1st out of 103 students
 
 ### My interest
 - Software Engineering for Artificial Intelligence
