@@ -11,9 +11,8 @@
    - 1st out of 86 students
 
 ### My interest
-- Mobile Application Development (Flutter)
-- NLP
-- RL
+- Software Engineering for Artificial Intelligence
+- Mobile/Web Application Development
 
 ### Study
 - I enjoy breaking down complex concepts into their smallest parts
