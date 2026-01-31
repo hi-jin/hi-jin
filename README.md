@@ -11,12 +11,8 @@
    - 1st out of 103 students
 
 ### My interest
-- Software Engineering for Artificial Intelligence
+- SE4AI, AI4SE, Human AI Interaction
 - Mobile/Web Application Development
-
-### Study
-- I enjoy breaking down complex concepts into their smallest parts
-   - [Demystifying the Complex: Simplified Explanations](https://github.com/hi-jin?tab=repositories&q=Demystifying&type=&language=&sort=)
 
 ### Work Experience
 - https://hi-jin.github.io/portfolio/cv/#work-1
