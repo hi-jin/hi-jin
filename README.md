@@ -1,6 +1,7 @@
 # HyungJin Ahn (hi-jin)
 
-[cv_hyungjinahn.pdf](https://github.com/user-attachments/files/18089724/cv_hyungjinahn.pdf)
+[cv_hyungjinahn.pdf](https://github.com/user-attachments/files/25159970/cv_hyungjinahn.pdf)
+
 
 ### Education
 - M.S. - Korea Advanced Institute of Science and Technology (KAIST)
